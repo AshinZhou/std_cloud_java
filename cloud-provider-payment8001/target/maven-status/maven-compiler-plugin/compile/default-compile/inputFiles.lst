@@ -1,0 +1,7 @@
+/Users/ashin/study/java/springCloud/zaj_cloud/cloud-provider-payment8001/src/main/java/com/atguigu/cloud/service/Impl/PayServiceImpl.java
+/Users/ashin/study/java/springCloud/zaj_cloud/cloud-provider-payment8001/src/main/java/com/atguigu/cloud/entities/Pay.java
+/Users/ashin/study/java/springCloud/zaj_cloud/cloud-provider-payment8001/src/main/java/com/atguigu/cloud/config/RestTemplateConfig.java
+/Users/ashin/study/java/springCloud/zaj_cloud/cloud-provider-payment8001/src/main/java/com/atguigu/cloud/controller/PayController.java
+/Users/ashin/study/java/springCloud/zaj_cloud/cloud-provider-payment8001/src/main/java/com/atguigu/cloud/mapper/PayMapper.java
+/Users/ashin/study/java/springCloud/zaj_cloud/cloud-provider-payment8001/src/main/java/com/atguigu/cloud/service/PayService.java
+/Users/ashin/study/java/springCloud/zaj_cloud/cloud-provider-payment8001/src/main/java/com/atguigu/cloud/Main8001.java
